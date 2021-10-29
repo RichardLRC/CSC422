@@ -1,0 +1,25 @@
+No.,Feedback
+Instructor,"Good presentation overall, it will be better to show the result with a table along with a baseline."
+1,Introduce yourselves at the title slide it will cause for smoother transitions when speakers change.
+2,I felt that more time could have been put in explaining the implementation other than that everything is good.
+3,I liked the use of graphics but I would try to explain them in more detail. It feels like you just added the graphics onto the slides but never explained them.
+4,I think adding information about why these models are useful/important would give the presentation a little more context.
+5,"I was confused on the accuracies slide when maximum entropy and PCA+KNN had 0 for some document types. Was their accuracy so slow that it was 0 or was it actually 0? Otherwise, great job :)"
+6,"Lots of text, changing slides back and forth during talking"
+7,The data preprocessing could have used a little bit more detail
+8,It would have been great to see an example prediction made with the best model.
+9,"I liked listening to this, and I was pleased with how well you explained the methodology and the algorithms you used, rather than just stating you used them. Something I would like to see at the end would be some conclusion about how this data is now useful to people, and how the conclusion can be translated to the real world. This analysis was excellent, but I would have liked to see the usefulness of it accentuated more."
+10,"Could have explained topic better, I'm not sure what predict new pages means, but other than that really good job."
+11,Would be interesting to talk about how effective other attempts at this type of classifier are.
+12,"I think the information was great, but the presentation itself was very monotone. Also, the title slide was skipped over and there were no introductions"
+13,"Not very familiar with the topic, so had to re-watch sections to make sure I understood. Would've been nice to have a more time dedicated to explaining the basis of the project."
+14,The pitch could have included more information about the data set used. What fields did it have? What information was taking from the data set?
+15,I would suggest adding more graphs/visual aids that make the results easier to understand as the viewer is not familiar with a lot of the values.
+16,Your initial description of what you were trying to do was not very clear. I did not realize that you only looked at website data from education institutions.
+17,missed team and project introduction. Good results
+18,"I like that you added a section on what you learned from the project at the end. To improve on your already excellent presentation, I would add some applications such a model could have in order to further engage the audience."
+19,"Your specs on your methods moved too fast for me to gather anything from. I would either skip all that detail entirely, or talk more about it so that it is actually meaningful to be there."
+20,It would have been interesting to know what parameters worked out well for certain algorithms.
+21,The results were presented nicely. It would have been nice to hear about possible applications in the real world rather than just the theory of what it means.
+22,"Overall, the presentation is really good, the only thing I can think about is for PCA and CNN part, maybe add some visualization"
+23,"I think it would be useful to mention if the data that you got from CMU had any outliers or missing values. If so, it would be interesting to know how that data cleaning process took place and whether or not the model had more accurate results after the data was cleaned. I'm curious as to whether the data collected from other universities that was not in the four categories you mentioned could be grouped into subcategories. Perhaps mentioning this information would strengthen the pitch as people would be able to better understand your data."

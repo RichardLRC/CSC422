@@ -1,0 +1,5 @@
+bs4
+chardet
+nltk
+pandas
+tqdm
